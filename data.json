@@ -1,0 +1,17 @@
+[{
+	"email": "jonkiky@gmail.com",
+	"school": "浙江大学",
+	"nubmer": "0010",
+	"name": "陈益振",
+	"award": "成人男子总里程",
+	"isNFT": false,
+	"NFT": ""
+}, {
+	"email": "jonkiky@gmail.com",
+	"school": "浙江大学",
+	"nubmer": "0010",
+	"name": "陈益振",
+	"award": "成人男子总里程",
+	"isNFT": true,
+	"NFT": "asdf asfsadf 2sdf"
+}]
