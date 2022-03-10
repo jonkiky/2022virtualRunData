@@ -1,17 +1,2408 @@
-[{
-	"email": "jonkiky@gmail.com",
-	"school": "浙江大学",
-	"nubmer": "0010",
-	"name": "陈益振",
-	"award": "成人男子总里程",
-	"isNFT": false,
-	"NFT": ""
-}, {
-	"email": "jonkiky@gmail.com",
-	"school": "浙江大学",
-	"nubmer": "0010",
-	"name": "陈益振",
-	"award": "成人男子总里程",
-	"isNFT": true,
-	"NFT": "asdf asfsadf 2sdf"
-}]
+ [
+        {
+            "email": "victor0109@163.com",
+            "school": "南方医科大学",
+            "number": "2915",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "313543802@qq.com",
+            "school": "南方医科大学",
+            "number": "2917",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "huomingxu@gmail.com",
+            "school": "浙江大学",
+            "number": "1001",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jasonfang2059@gmail.com",
+            "school": "浙江大学",
+            "number": "1002",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "hongxue2009@gmail.com",
+            "school": "浙江大学",
+            "number": "1003",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "null",
+            "school": "浙江大学",
+            "number": "1006",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "vivid0036@gmail.com",
+            "school": "浙江大学",
+            "number": "1008",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "fayehifichf@gmail.com",
+            "school": "浙江大学",
+            "number": "1013",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "thejackfy@yahoo.com",
+            "school": "浙江大学",
+            "number": "1016",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "garrycui0331@gmail.com",
+            "school": "浙江大学",
+            "number": "1020",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "steve.yang.ca@gmail.com",
+            "school": "浙江大学",
+            "number": "1022",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "pengchen@gmail.com",
+            "school": "浙江大学",
+            "number": "1029",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "huiminluo2000@yahoo.com",
+            "school": "浙江大学",
+            "number": "1030",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "huihui008@yahoo.com",
+            "school": "浙江大学",
+            "number": "1032",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "tangsiwei@gmail.com",
+            "school": "浙江大学",
+            "number": "1035",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "wangemory@yahoo.com",
+            "school": "浙江大学",
+            "number": "1040",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "clairezhang08@gmail.com",
+            "school": "浙江大学",
+            "number": "1041",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "detang_shi@yahoo.com",
+            "school": "浙江大学",
+            "number": "1042",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "ailingwang@hotmail.com",
+            "school": "浙江大学",
+            "number": "1045",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "ken_liang@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1101",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "rui.ma2006@gmail.com",
+            "school": "华南理工大学",
+            "number": "1114",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xiaotong_he@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1115",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1118",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "songqy@hotmail.com",
+            "school": "华南理工大学",
+            "number": "1120",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "13049301322@163.com",
+            "school": "华南理工大学",
+            "number": "1123",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1127",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "314145526@qq.com",
+            "school": "华南理工大学",
+            "number": "1141",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "ychen3618@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1201",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jqxin2006@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1203",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Estellapok@yahoo.com",
+            "school": "暨南大学",
+            "number": "1401",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "iqzhang@yahoo.com",
+            "school": "暨南大学",
+            "number": "1413",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Aileenfang123@gmail.com",
+            "school": "中山大学",
+            "number": "1501",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "eikazhang@gmail.com",
+            "school": "中山大学",
+            "number": "1510",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "dianeleemd@gmail.com",
+            "school": "中山大学",
+            "number": "1519",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "zchen@allwin21.com",
+            "school": "西安交通大学",
+            "number": "1601",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lichengquan75@gmail.com",
+            "school": "西安交通大学",
+            "number": "1603",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "francisbao@msn.com",
+            "school": "西安交通大学",
+            "number": "1608",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "feishu2@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1611",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "fosterliu2@gmail.com",
+            "school": "西安交通大学",
+            "number": "1613",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "dongmei.wang.ms@gmail.com",
+            "school": "西安交通大学",
+            "number": "1614",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "pinlinjiang@gmail.com",
+            "school": "西安交通大学",
+            "number": "1615",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "ouli8989@gmail.com",
+            "school": "西安交通大学",
+            "number": "1616",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lihui_xie@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1618",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Jeff_yajun_liu@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1619",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "wugang@gmail.com",
+            "school": "西安交通大学",
+            "number": "1624",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "gguoliangyi@gmail.com",
+            "school": "湖南师范大学",
+            "number": "1804",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "sshodana@gmail.com",
+            "school": "湖南师范大学",
+            "number": "1805",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xmimiguo@gmail.com",
+            "school": "湖南师范大学",
+            "number": "1806",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lilly.chen.2012@gmail.com",
+            "school": "华东师范大学",
+            "number": "1902",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jennifer.jihui.yang@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2001",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "scottsi80@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2003",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lima_ncsu@yahoo.com",
+            "school": "北京邮电大学",
+            "number": "2005",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "huyuchennn@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2011",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "fenjunye@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2015",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liang.cheng@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2020",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "yingyingchen.esq@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2026",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "junshi2004@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2033",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "sherry.xyang@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2034",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liangtao.zhu@gmail.com",
+            "school": "上海交通大学",
+            "number": "2104",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "joetian@gmail.com",
+            "school": "北京化工大学",
+            "number": "2301",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "raysunl@gmail.com",
+            "school": "北京化工大学",
+            "number": "2302",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "qiuhong_sun@yahoo.com",
+            "school": "吉林大学",
+            "number": "2602",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "baixuefang@yahoo.com,",
+            "school": "吉林大学",
+            "number": "2604",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "rheasu2006@yahoo.com",
+            "school": "吉林大学",
+            "number": "2606",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Weihua.afan@gmail.com",
+            "school": "吉林大学",
+            "number": "2612",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lltao@hotmail.com",
+            "school": "南京师范大学",
+            "number": "2701",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "huazhou2058@gmail.com",
+            "school": "南京师范大学",
+            "number": "2702",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jp.guo@foxmail.com",
+            "school": "南京师范大学",
+            "number": "2703",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lanwang1107@yahoo.com",
+            "school": "南京师范大学",
+            "number": "2705",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "deborahxlew@gmail.com",
+            "school": "南京师范大学",
+            "number": "2706",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jpzhang@flash.net",
+            "school": "南京师范大学",
+            "number": "2707",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "tracyqin67@gmail.com",
+            "school": "南方医科大学",
+            "number": "2901",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lilly.chen.2012@gmail.com",
+            "school": "南方医科大学",
+            "number": "2902",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liewei.bao@gmail.com",
+            "school": "南方医科大学",
+            "number": "2905",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "vickijy@gmail.com",
+            "school": "南方医科大学",
+            "number": "2906",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jian.zhang.goog@gmail.com",
+            "school": "南方医科大学",
+            "number": "2908",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "dsun48@gmail.com",
+            "school": "南方医科大学",
+            "number": "2910",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "mingliangguo@gmail.com",
+            "school": "南方医科大学",
+            "number": "2911",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "genie02qqa@gmail.com",
+            "school": "南方医科大学",
+            "number": "2912",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "yuchangmiao@yahoo.com",
+            "school": "南方医科大学",
+            "number": "2913",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lupingq@yahoo.com",
+            "school": "南方医科大学",
+            "number": "2914",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "goldenspama@gmail.com",
+            "school": "南方医科大学",
+            "number": "2916",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "melqian@gmail.com",
+            "school": "中国科技大学",
+            "number": "3103",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "yuwu58@gmail.com",
+            "school": "中国科技大学",
+            "number": "3105",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "david.changh@gmail.com",
+            "school": "东南大学",
+            "number": "3301",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "seubayarea@gmail.com",
+            "school": "东南大学",
+            "number": "3309",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "DJWU@live.com",
+            "school": "厦门大学",
+            "number": "3402",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "117vincent@gmail.com",
+            "school": "厦门大学",
+            "number": "3403",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liying_xie@hotmail.com",
+            "school": "厦门大学",
+            "number": "3405",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xilekaoshen@yahoo.com",
+            "school": "厦门大学",
+            "number": "3408",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "chlhc2004@yahoo.com",
+            "school": "厦门大学",
+            "number": "3410",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "duanqing_wu@yahoo.com",
+            "school": "厦门大学",
+            "number": "3415",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "shijing303@yahoo.com",
+            "school": "厦门大学",
+            "number": "3416",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xxiao1966@gmail.com",
+            "school": "厦门大学",
+            "number": "3417",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "weiliu008@yahoo.com",
+            "school": "厦门大学",
+            "number": "3418",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Wtsai@yahoo.com",
+            "school": "浙江大学",
+            "number": "1004",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "fangfangliu2011@gmail.com",
+            "school": "浙江大学",
+            "number": "1014",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "feishu2@yahoo.com",
+            "school": "浙江大学",
+            "number": "1023",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liweisun2017@gmail.com",
+            "school": "浙江大学",
+            "number": "1031",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lanyinglu@gmail.com",
+            "school": "浙江大学",
+            "number": "1034",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "austin.xyz@gmail.com",
+            "school": "浙江大学",
+            "number": "1036",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "annxuleheng@gmail.com",
+            "school": "浙江大学",
+            "number": "1038",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "owenyli@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1106",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Jeffersliu@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1108",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "good4giants@gmail.com",
+            "school": "华南理工大学",
+            "number": "1116",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "devis.yslin@gmail.com",
+            "school": "华南理工大学",
+            "number": "1119",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "371859385@qq.com",
+            "school": "华南理工大学",
+            "number": "1121",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "13501165095@139.com",
+            "school": "华南理工大学",
+            "number": "1125",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1128",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "davidlanbin@gmail.com",
+            "school": "华南理工大学",
+            "number": "1136",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "merryxiao2004@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1138",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "bhu9918@gmail.com",
+            "school": "华南理工大学",
+            "number": "1139",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jiangong88@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1202",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "bowanggu@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1214",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "andy8uscec@gmail.com",
+            "school": "暨南大学",
+            "number": "1406",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "Czfb1@live.com",
+            "school": "暨南大学",
+            "number": "1407",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "aaliang88@gmail.com",
+            "school": "暨南大学",
+            "number": "1408",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "kaibo100@gmail.com",
+            "school": "中山大学",
+            "number": "1505",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "danny.mok@gmail.com",
+            "school": "中山大学",
+            "number": "1511",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "charlee.liu@gmail.com",
+            "school": "西安交通大学",
+            "number": "1605",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "ji0000@gmail.com",
+            "school": "西安交通大学",
+            "number": "1606",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "chenyongguang@hotmail.com",
+            "school": "西安交通大学",
+            "number": "1609",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "EVANZOU@GMAIL.COM",
+            "school": "西安交通大学",
+            "number": "1610",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "fosterliu2@gmail.com",
+            "school": "西安交通大学",
+            "number": "1612",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "yanmeng5@gmail.com",
+            "school": "西安交通大学",
+            "number": "1620",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "tanhongho@gmail.com",
+            "school": "西安交通大学",
+            "number": "1626",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "hongbingz@gmail.com",
+            "school": "湖南师范大学",
+            "number": "1803",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "renchaorevee@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2010",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liuyifei11@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2016",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lima_ncsu@yahoo.com",
+            "school": "北京邮电大学",
+            "number": "2021",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "zhiyong.huang@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2025",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "QingHan@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2032",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "valor_h@yahoo.com",
+            "school": "北京邮电大学",
+            "number": "2035",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "hzeng1@yahoo.com",
+            "school": "上海交通大学",
+            "number": "2107",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "majing19@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2201",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "qiankairong@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2202",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "yuchunman@yahoo.com",
+            "school": "吉林大学",
+            "number": "2603",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lloydxu@hotmail.com",
+            "school": "同济大学",
+            "number": "2803",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "xiaochenno1@hotmail.com",
+            "school": "同济大学",
+            "number": "2806",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "mr_taoyang@yahoo.com",
+            "school": "南方医科大学",
+            "number": "2907",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "jrhuang_1@yahoo.com",
+            "school": "中国科技大学",
+            "number": "3107",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "pingh@comcast.net",
+            "school": "厦门大学",
+            "number": "3404",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "liundlinda@yahoo.com",
+            "school": "厦门大学",
+            "number": "3409",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "freipan@hotmail.com",
+            "school": "厦门大学",
+            "number": "3412",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "270493134@qq.com",
+            "school": "厦门大学",
+            "number": "3419",
+            "award": "tongqing",
+            "rank": "0"
+        },
+        {
+            "email": "lltao@hotmail.com",
+            "school": "南京师范大学",
+            "number": "2701",
+            "name": "陶力强",
+            "award": "nanlicheng",
+            "rank": "1"
+        },
+        {
+            "email": "zchen@allwin21.com",
+            "school": "西安交通大学",
+            "number": "1601",
+            "name": "陈正明",
+            "award": "nanlicheng",
+            "rank": "2"
+        },
+        {
+            "email": "steve.yang.ca@gmail.com",
+            "school": "浙江大学",
+            "number": "1022",
+            "name": "杨国平",
+            "award": "nanlicheng",
+            "rank": "3"
+        },
+        {
+            "email": "duanqing_wu@yahoo.com",
+            "school": "厦门大学",
+            "number": "3415",
+            "name": "吴端清",
+            "award": "nanlicheng",
+            "rank": "4"
+        },
+        {
+            "email": "ychen3618@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1201",
+            "name": "陈跃",
+            "award": "nanlicheng",
+            "rank": "5"
+        },
+        {
+            "email": "scottsi80@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2003",
+            "name": "司华晓",
+            "award": "nanlicheng",
+            "rank": "6"
+        },
+        {
+            "email": "francisbao@msn.com",
+            "school": "西安交通大学",
+            "number": "1608",
+            "name": "包钢",
+            "award": "nanlicheng",
+            "rank": "7"
+        },
+        {
+            "email": "joetian@gmail.com",
+            "school": "北京化工大学",
+            "number": "2301",
+            "name": "周天",
+            "award": "nanlicheng",
+            "rank": "8"
+        },
+        {
+            "email": "garrycui0331@gmail.com",
+            "school": "浙江大学",
+            "number": "1020",
+            "name": "崔冠男",
+            "award": "nanlicheng",
+            "rank": "9"
+        },
+        {
+            "email": "lishuang3@gmail.com",
+            "school": "吉林大学",
+            "number": "2601",
+            "name": "郑慧",
+            "award": "nanlicheng",
+            "rank": "10"
+        },
+        {
+            "email": "yuchunman@yahoo.com",
+            "school": "吉林大学",
+            "number": "2603",
+            "name": "于春满",
+            "award": "nanlicheng",
+            "rank": "11"
+        },
+        {
+            "email": "ken_liang@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1101",
+            "name": "Ken Liang",
+            "award": "nanlicheng",
+            "rank": "12"
+        },
+        {
+            "email": "lloydxu@hotmail.com",
+            "school": "同济大学",
+            "number": "2803",
+            "name": "许又一",
+            "award": "nanlicheng",
+            "rank": "13"
+        },
+        {
+            "email": "Jeff_yajun_liu@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1619",
+            "name": "刘亚军",
+            "award": "nanlicheng",
+            "rank": "14"
+        },
+        {
+            "email": "charlee.liu@gmail.com",
+            "school": "西安交通大学",
+            "number": "1605",
+            "name": "刘传李",
+            "award": "nanlicheng",
+            "rank": "15"
+        },
+        {
+            "email": "pengchen@gmail.com",
+            "school": "浙江大学",
+            "number": "1029",
+            "name": "陈鹏",
+            "award": "nanlicheng",
+            "rank": "16"
+        },
+        {
+            "email": "chlhc2004@yahoo.com",
+            "school": "厦门大学",
+            "number": "3410",
+            "name": "刘海川",
+            "award": "nanlicheng",
+            "rank": "17"
+        },
+        {
+            "email": "conradzou@gmail.com",
+            "school": "中国科技大学",
+            "number": "3104",
+            "name": "邹琭丰",
+            "award": "nanlicheng",
+            "rank": "18"
+        },
+        {
+            "email": "jqxin2006@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1203",
+            "name": "辛建强",
+            "award": "nanlicheng",
+            "rank": "19"
+        },
+        {
+            "email": "jamesho8250@dingtalk.com",
+            "school": "华南理工大学",
+            "number": "1103",
+            "name": "James Ho",
+            "award": "nanlicheng",
+            "rank": "20"
+        },
+        {
+            "email": "jasonfang2059@gmail.com",
+            "school": "浙江大学",
+            "number": "1002",
+            "name": "方建欣",
+            "award": "nanlicheng",
+            "rank": "21"
+        },
+        {
+            "email": "ypxu95070@gmail.com",
+            "school": "东南大学",
+            "number": "3308",
+            "name": "徐益平",
+            "award": "nanlicheng",
+            "rank": "22"
+        },
+        {
+            "email": "zhuoho@hotmail.com",
+            "school": "中山大学",
+            "number": "1522",
+            "name": "谭存佚",
+            "award": "nanlicheng",
+            "rank": "23"
+        },
+        {
+            "email": "weiliu008@yahoo.com",
+            "school": "厦门大学",
+            "number": "3418",
+            "name": "刘炜",
+            "award": "nanlicheng",
+            "rank": "24"
+        },
+        {
+            "email": "chenyongguang@hotmail.com",
+            "school": "西安交通大学",
+            "number": "1609",
+            "name": "陈永光",
+            "award": "nanlicheng",
+            "rank": "25"
+        },
+        {
+            "email": "EVANZOU@GMAIL.COM",
+            "school": "西安交通大学",
+            "number": "1610",
+            "name": "邹志强",
+            "award": "nanlicheng",
+            "rank": "26"
+        },
+        {
+            "email": "peteyzhang@gmail.com",
+            "school": "中国科技大学",
+            "number": "3106",
+            "name": "张岩",
+            "award": "nanlicheng",
+            "rank": "27"
+        },
+        {
+            "email": "freipan@hotmail.com",
+            "school": "厦门大学",
+            "number": "3412",
+            "name": "潘一毅",
+            "award": "nanlicheng",
+            "rank": "28"
+        },
+        {
+            "email": "117vincent@gmail.com",
+            "school": "厦门大学",
+            "number": "3403",
+            "name": "刘炜风",
+            "award": "nanlicheng",
+            "rank": "29"
+        },
+        {
+            "email": "pinlinjiang@gmail.com",
+            "school": "西安交通大学",
+            "number": "1615",
+            "name": "平林江",
+            "award": "nanlicheng",
+            "rank": "30"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1118",
+            "name": "敬小成",
+            "award": "nvlicheng",
+            "rank": "1"
+        },
+        {
+            "email": "songqy@hotmail.com",
+            "school": "华南理工大学",
+            "number": "1120",
+            "name": "尚晴",
+            "award": "nvlicheng",
+            "rank": "2"
+        },
+        {
+            "email": "feishu2@yahoo.com",
+            "school": "浙江大学",
+            "number": "1023",
+            "name": "徐飞",
+            "award": "nvlicheng",
+            "rank": "3"
+        },
+        {
+            "email": "melqian@gmail.com",
+            "school": "中国科技大学",
+            "number": "3103",
+            "name": "钱晖",
+            "award": "nvlicheng",
+            "rank": "4"
+        },
+        {
+            "email": "fayehifichf@gmail.com",
+            "school": "浙江大学",
+            "number": "1013",
+            "name": "陈慧妃",
+            "award": "nvlicheng",
+            "rank": "5"
+        },
+        {
+            "email": "ailingwang@hotmail.com",
+            "school": "浙江大学",
+            "number": "1045",
+            "name": "王爱灵",
+            "award": "nvlicheng",
+            "rank": "6"
+        },
+        {
+            "email": "lilly.chen.2012@gmail.com",
+            "school": "华东师范大学",
+            "number": "1902",
+            "name": "陳磊",
+            "award": "nvlicheng",
+            "rank": "7"
+        },
+        {
+            "email": "qiuhong_sun@yahoo.com",
+            "school": "吉林大学",
+            "number": "2602",
+            "name": "孙宏",
+            "award": "nvlicheng",
+            "rank": "8"
+        },
+        {
+            "email": "clairezhang08@gmail.com",
+            "school": "浙江大学",
+            "number": "1041",
+            "name": "张红梅",
+            "award": "nvlicheng",
+            "rank": "9"
+        },
+        {
+            "email": "jp.guo@foxmail.com",
+            "school": "南京师范大学",
+            "number": "2703",
+            "name": "朱金如",
+            "award": "nvlicheng",
+            "rank": "10"
+        },
+        {
+            "email": "liying_xie@hotmail.com",
+            "school": "厦门大学",
+            "number": "3405",
+            "name": "解立颖",
+            "award": "nvlicheng",
+            "rank": "11"
+        },
+        {
+            "email": "Aileenfang123@gmail.com",
+            "school": "中山大学",
+            "number": "1501",
+            "name": "方爱光",
+            "award": "nvlicheng",
+            "rank": "12"
+        },
+        {
+            "email": "majing19@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2201",
+            "name": "马晶",
+            "award": "nvlicheng",
+            "rank": "13"
+        },
+        {
+            "email": "baixuefang@yahoo.com,",
+            "school": "吉林大学",
+            "number": "2604",
+            "name": "白雪芳",
+            "award": "nvlicheng",
+            "rank": "14"
+        },
+        {
+            "email": "deborahxlew@gmail.com",
+            "school": "南京师范大学",
+            "number": "2706",
+            "name": "许悦",
+            "award": "nvlicheng",
+            "rank": "15"
+        },
+        {
+            "email": "yanshen2008@yahoo.com",
+            "school": "浙江大学",
+            "number": "1039",
+            "name": "高爽",
+            "award": "nvlicheng",
+            "rank": "16"
+        },
+        {
+            "email": "sshodana@gmail.com",
+            "school": "湖南师范大学",
+            "number": "1805",
+            "name": "宋小丹",
+            "award": "nvlicheng",
+            "rank": "17"
+        },
+        {
+            "email": "Czfb1@live.com",
+            "school": "暨南大学",
+            "number": "1407",
+            "name": "翟慧玲",
+            "award": "nvlicheng",
+            "rank": "18"
+        },
+        {
+            "email": "Cathryn777999@gmail.com",
+            "school": "西安交通大学",
+            "number": "1617",
+            "name": "陈洁",
+            "award": "nvlicheng",
+            "rank": "19"
+        },
+        {
+            "email": "fosterliu2@gmail.com",
+            "school": "西安交通大学",
+            "number": "1613",
+            "name": "刘晓瑞",
+            "award": "nvlicheng",
+            "rank": "20"
+        },
+        {
+            "email": "shijing303@yahoo.com",
+            "school": "厦门大学",
+            "number": "3416",
+            "name": "潘莉",
+            "award": "nvlicheng",
+            "rank": "21"
+        },
+        {
+            "email": "huiminluo2000@yahoo.com",
+            "school": "浙江大学",
+            "number": "1030",
+            "name": "罗慧敏",
+            "award": "nvlicheng",
+            "rank": "22"
+        },
+        {
+            "email": "nishihong@hotmail.com",
+            "school": "浙江大学",
+            "number": "1017",
+            "name": "倪时红",
+            "award": "nvlicheng",
+            "rank": "23"
+        },
+        {
+            "email": "lima_ncsu@yahoo.com",
+            "school": "北京邮电大学",
+            "number": "2005",
+            "name": "马莉",
+            "award": "nvlicheng",
+            "rank": "24"
+        },
+        {
+            "email": "jiangong88@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1202",
+            "name": "宫剑",
+            "award": "nvlicheng",
+            "rank": "25"
+        },
+        {
+            "email": "chong0404@gmail.com",
+            "school": "华中科技大学",
+            "number": "1303",
+            "name": "洪晨",
+            "award": "nvlicheng",
+            "rank": "26"
+        },
+        {
+            "email": "jennifer.jihui.yang@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2001",
+            "name": "杨积慧",
+            "award": "nvlicheng",
+            "rank": "27"
+        },
+        {
+            "email": "annie_q_shi@yahoo.com",
+            "school": "同济大学",
+            "number": "2807",
+            "name": "施琦华",
+            "award": "nvlicheng",
+            "rank": "28"
+        },
+        {
+            "email": "dongmei.wang.ms@gmail.com",
+            "school": "西安交通大学",
+            "number": "1614",
+            "name": "汪冬梅",
+            "award": "nvlicheng",
+            "rank": "29"
+        },
+        {
+            "email": "sherryl.goodview@gmail.com",
+            "school": "华中科技大学",
+            "number": "1312",
+            "name": "刘晓蕊",
+            "award": "nvlicheng",
+            "rank": "30"
+        },
+        {
+            "email": "chlhc2004@yahoo.com",
+            "school": "厦门大学",
+            "number": "3410",
+            "name": "刘海川",
+            "award": "nanpeisu",
+            "rank": "1"
+        },
+        {
+            "email": "pengchen@gmail.com",
+            "school": "浙江大学",
+            "number": "1029",
+            "name": "陈鹏",
+            "award": "nanpeisu",
+            "rank": "2"
+        },
+        {
+            "email": "walterwang2001@gmail.com",
+            "school": "浙江大学",
+            "number": "1028",
+            "name": "王荣良",
+            "award": "nanpeisu",
+            "rank": "3"
+        },
+        {
+            "email": "yuchunman@yahoo.com",
+            "school": "吉林大学",
+            "number": "2603",
+            "name": "于春满",
+            "award": "nanpeisu",
+            "rank": "4"
+        },
+        {
+            "email": "liubocn@hotmail.com",
+            "school": "华中科技大学",
+            "number": "1323",
+            "name": "刘波",
+            "award": "nanpeisu",
+            "rank": "5"
+        },
+        {
+            "email": "freipan@hotmail.com",
+            "school": "厦门大学",
+            "number": "3412",
+            "name": "潘一毅",
+            "award": "nanpeisu",
+            "rank": "6"
+        },
+        {
+            "email": "shufeifan@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1208",
+            "name": "范澍斐",
+            "award": "nanpeisu",
+            "rank": "7"
+        },
+        {
+            "email": "conradzou@gmail.com",
+            "school": "中国科技大学",
+            "number": "3104",
+            "name": "邹琭丰",
+            "award": "nanpeisu",
+            "rank": "8"
+        },
+        {
+            "email": "weiliu008@yahoo.com",
+            "school": "厦门大学",
+            "number": "3418",
+            "name": "刘炜",
+            "award": "nanpeisu",
+            "rank": "9"
+        },
+        {
+            "email": "andrew_blchen@hotmail.com",
+            "school": "浙江大学",
+            "number": "1024",
+            "name": "陈必龙",
+            "award": "nanpeisu",
+            "rank": "10"
+        },
+        {
+            "email": "yangguang.eric@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2028",
+            "name": "杨光",
+            "award": "nanpeisu",
+            "rank": "11"
+        },
+        {
+            "email": "wenhan.zhang@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2030",
+            "name": "张文翰",
+            "award": "nanpeisu",
+            "rank": "12"
+        },
+        {
+            "email": "ChengcZhao.BUPT@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2022",
+            "name": "赵成城",
+            "award": "nanpeisu",
+            "rank": "13"
+        },
+        {
+            "email": "protenchen@hotmail.com",
+            "school": "西安电子科技大学",
+            "number": "1212",
+            "name": "陈文首",
+            "award": "nanpeisu",
+            "rank": "14"
+        },
+        {
+            "email": "yejingqiang1992@gmail.com",
+            "school": "浙江大学",
+            "number": "1027",
+            "name": "叶靖强",
+            "award": "nanpeisu",
+            "rank": "15"
+        },
+        {
+            "email": "peteyzhang@gmail.com",
+            "school": "中国科技大学",
+            "number": "3106",
+            "name": "张岩",
+            "award": "nanpeisu",
+            "rank": "16"
+        },
+        {
+            "email": "zhenxing.xi@yahoo.com",
+            "school": "浙江大学",
+            "number": "1009",
+            "name": "袭振兴",
+            "award": "nanpeisu",
+            "rank": "17"
+        },
+        {
+            "email": "lianwenzhao@gmail.com",
+            "school": "上海交通大学",
+            "number": "2108",
+            "name": "连文昭",
+            "award": "nanpeisu",
+            "rank": "18"
+        },
+        {
+            "email": "jianhaoc@qq.com",
+            "school": "中山大学",
+            "number": "1509",
+            "name": "曹剑豪",
+            "award": "nanpeisu",
+            "rank": "19"
+        },
+        {
+            "email": "liangtao.zhu@gmail.com",
+            "school": "上海交通大学",
+            "number": "2104",
+            "name": "朱良涛",
+            "award": "nanpeisu",
+            "rank": "20"
+        },
+        {
+            "email": "zjujack_shao@hotmail.com",
+            "school": "浙江大学",
+            "number": "1026",
+            "name": "邵程远",
+            "award": "nanpeisu",
+            "rank": "21"
+        },
+        {
+            "email": "steveb.zhou@gmail.com",
+            "school": "北京化工大学",
+            "number": "2304",
+            "name": "周晓波",
+            "award": "nanpeisu",
+            "rank": "22"
+        },
+        {
+            "email": "lwang7676@gmail.com",
+            "school": "西安交通大学",
+            "number": "1625",
+            "name": "王丽红",
+            "award": "nanpeisu",
+            "rank": "23"
+        },
+        {
+            "email": "business.wbhe@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2216",
+            "name": "何文斌",
+            "award": "nanpeisu",
+            "rank": "24"
+        },
+        {
+            "email": "rogerxujiang@gmail.com",
+            "school": "华中科技大学",
+            "number": "1315",
+            "name": "姜旭",
+            "award": "nanpeisu",
+            "rank": "25"
+        },
+        {
+            "email": "kchen3318@gmail.com",
+            "school": "厦门大学",
+            "number": "3407",
+            "name": "陈奎",
+            "award": "nanpeisu",
+            "rank": "26"
+        },
+        {
+            "email": "qiujinbo@gmail.com",
+            "school": "华中科技大学",
+            "number": "1306",
+            "name": "邱锦波",
+            "award": "nanpeisu",
+            "rank": "27"
+        },
+        {
+            "email": "Qingyu.song@gmail.com",
+            "school": "吉林大学",
+            "number": "2609",
+            "name": "宋庆宇",
+            "award": "nanpeisu",
+            "rank": "28"
+        },
+        {
+            "email": "jamesho8250@dingtalk.com",
+            "school": "华南理工大学",
+            "number": "1103",
+            "name": "James Ho",
+            "award": "nanpeisu",
+            "rank": "29"
+        },
+        {
+            "email": "tjtanjia@hotmail.com",
+            "school": "上海交通大学",
+            "number": "2103",
+            "name": "谈嘉",
+            "award": "nanpeisu",
+            "rank": "30"
+        },
+        {
+            "email": "clairezhang08@gmail.com",
+            "school": "浙江大学",
+            "number": "1041",
+            "name": "张红梅",
+            "award": "nvpeisu",
+            "rank": "1"
+        },
+        {
+            "email": "liuhui.deng@outlook.com",
+            "school": "北京邮电大学",
+            "number": "2004",
+            "name": "邓柳惠",
+            "award": "nvpeisu",
+            "rank": "2"
+        },
+        {
+            "email": "liweisun2017@gmail.com",
+            "school": "浙江大学",
+            "number": "1031",
+            "name": "孫黎炜",
+            "award": "nvpeisu",
+            "rank": "3"
+        },
+        {
+            "email": "fosterliu2@gmail.com",
+            "school": "西安交通大学",
+            "number": "1613",
+            "name": "刘晓瑞",
+            "award": "nvpeisu",
+            "rank": "4"
+        },
+        {
+            "email": "yuwu58@gmail.com",
+            "school": "中国科技大学",
+            "number": "3105",
+            "name": "吴郁",
+            "award": "nvpeisu",
+            "rank": "5"
+        },
+        {
+            "email": "nishihong@hotmail.com",
+            "school": "浙江大学",
+            "number": "1017",
+            "name": "倪时红",
+            "award": "nvpeisu",
+            "rank": "6"
+        },
+        {
+            "email": "melqian@gmail.com",
+            "school": "中国科技大学",
+            "number": "3103",
+            "name": "钱晖",
+            "award": "nvpeisu",
+            "rank": "7"
+        },
+        {
+            "email": "melody8985@gmail.com",
+            "school": "吉林大学",
+            "number": "2610",
+            "name": "姜天婵",
+            "award": "nvpeisu",
+            "rank": "8"
+        },
+        {
+            "email": "yanshen2008@yahoo.com",
+            "school": "浙江大学",
+            "number": "1039",
+            "name": "高爽",
+            "award": "nvpeisu",
+            "rank": "9"
+        },
+        {
+            "email": "fayehifichf@gmail.com",
+            "school": "浙江大学",
+            "number": "1013",
+            "name": "陈慧妃",
+            "award": "nvpeisu",
+            "rank": "10"
+        },
+        {
+            "email": "feishu2@yahoo.com",
+            "school": "浙江大学",
+            "number": "1023",
+            "name": "徐飞",
+            "award": "nvpeisu",
+            "rank": "11"
+        },
+        {
+            "email": "hongxue2009@gmail.com",
+            "school": "浙江大学",
+            "number": "1003",
+            "name": "薛宏",
+            "award": "nvpeisu",
+            "rank": "12"
+        },
+        {
+            "email": "lorraine.chenrl@gmail.com",
+            "school": "浙江大学",
+            "number": "1037",
+            "name": "陈若凌",
+            "award": "nvpeisu",
+            "rank": "13"
+        },
+        {
+            "email": "shuhuan.yu@gmail.com",
+            "school": "浙江大学",
+            "number": "1012",
+            "name": "虞淑环",
+            "award": "nvpeisu",
+            "rank": "14"
+        },
+        {
+            "email": "ytangjf@gmail.com",
+            "school": "华中科技大学",
+            "number": "1311",
+            "name": "汤莹莹",
+            "award": "nvpeisu",
+            "rank": "15"
+        },
+        {
+            "email": "yolanda.suee@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2006",
+            "name": "苏媛",
+            "award": "nvpeisu",
+            "rank": "16"
+        },
+        {
+            "email": "Czfb1@live.com",
+            "school": "暨南大学",
+            "number": "1407",
+            "name": "翟慧玲",
+            "award": "nvpeisu",
+            "rank": "17"
+        },
+        {
+            "email": "qiuhong_sun@yahoo.com",
+            "school": "吉林大学",
+            "number": "2602",
+            "name": "孙宏",
+            "award": "nvpeisu",
+            "rank": "18"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1118",
+            "name": "敬小成",
+            "award": "nvpeisu",
+            "rank": "19"
+        },
+        {
+            "email": "kuankuan@umich.edu",
+            "school": "上海交通大学",
+            "number": "2101",
+            "name": "王丁丁",
+            "award": "nvpeisu",
+            "rank": "20"
+        },
+        {
+            "email": "jiangong88@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1202",
+            "name": "宫剑",
+            "award": "nvpeisu",
+            "rank": "21"
+        },
+        {
+            "email": "meichengcn@gmail.com",
+            "school": "中山大学",
+            "number": "1524",
+            "name": "程美",
+            "award": "nvpeisu",
+            "rank": "22"
+        },
+        {
+            "email": "qi.tan.jade@gmail.com",
+            "school": "厦门大学",
+            "number": "3401",
+            "name": "谭琦",
+            "award": "nvpeisu",
+            "rank": "23"
+        },
+        {
+            "email": "ailingwang@hotmail.com",
+            "school": "浙江大学",
+            "number": "1045",
+            "name": "王爱灵",
+            "award": "nvpeisu",
+            "rank": "24"
+        },
+        {
+            "email": "letsblog1969@gmail.com",
+            "school": "浙江大学",
+            "number": "1033",
+            "name": "朱红",
+            "award": "nvpeisu",
+            "rank": "25"
+        },
+        {
+            "email": "majing19@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2201",
+            "name": "马晶",
+            "award": "nvpeisu",
+            "rank": "26"
+        },
+        {
+            "email": "chong0404@gmail.com",
+            "school": "华中科技大学",
+            "number": "1303",
+            "name": "洪晨",
+            "award": "nvpeisu",
+            "rank": "27"
+        },
+        {
+            "email": "bowanggu@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1214",
+            "name": "王波",
+            "award": "nvpeisu",
+            "rank": "28"
+        },
+        {
+            "email": "heh906@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2031",
+            "name": "何欢",
+            "award": "nvpeisu",
+            "rank": "29"
+        },
+        {
+            "email": "meijuan21@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1604",
+            "name": "陈美娟",
+            "award": "nvpeisu",
+            "rank": "30"
+        },
+        {
+            "email": "goldenspama@gmail.com",
+            "number": "2916",
+            "name": "潜惠雄",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "lupingq@yahoo.com",
+            "number": "2914",
+            "name": "全禄平",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "yuchangmiao@yahoo.com",
+            "number": "2913",
+            "name": "苗玉昌",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "313543802@qq.com",
+            "number": "2917",
+            "name": "吴玲",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "tracyqin67@gmail.com",
+            "number": "2901",
+            "name": "覃春蓉",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "mingliangguo@gmail.com",
+            "number": "2911",
+            "name": "郭明亮",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "dsun48@gmail.com",
+            "number": "2910",
+            "name": "孙晓东",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "jian.zhang.goog@gmail.com",
+            "number": "2908",
+            "name": "张剑",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "genie02qqa@gmail.com",
+            "number": "2912",
+            "name": "章庄",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "victor0109@163.com",
+            "number": "2915",
+            "name": "丁详明",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "liewei.bao@gmail.com",
+            "number": "2905",
+            "name": "Liewei Bao",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "lilly.chen.2012@gmail.com",
+            "number": "2902",
+            "name": "陳磊",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "vickijy@gmail.com",
+            "number": "2906",
+            "name": "王粟",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "onesight@outlook.com",
+            "number": "2909",
+            "name": "Shihui Yu",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "yongliji@gmail.com",
+            "number": "2904",
+            "name": "姬永丽",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "mr_taoyang@yahoo.com",
+            "number": "2907",
+            "name": "杨涛",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "agan8202@gmail.com",
+            "number": "2903",
+            "name": "汪显荣",
+            "award": "ryj",
+            "rank": "0"
+        },
+        {
+            "email": "lima_ncsu@yahoo.com",
+            "school": "北京邮电大学",
+            "number": "2021",
+            "name": "周佳蕙",
+            "award": "rt",
+            "rank": "1"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1127",
+            "name": "林诗雯",
+            "award": "rt",
+            "rank": "2"
+        },
+        {
+            "email": "valor_h@yahoo.com",
+            "school": "北京邮电大学",
+            "number": "2035",
+            "name": "黄䆣熙",
+            "award": "rt",
+            "rank": "3"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1128",
+            "name": "林诗原",
+            "award": "rt",
+            "rank": "4"
+        },
+        {
+            "email": "tanhongho@gmail.com",
+            "school": "西安交通大学",
+            "number": "1626",
+            "name": "陈子仲",
+            "award": "rt",
+            "rank": "5"
+        },
+        {
+            "email": "yjd.suny@yahoo.com",
+            "school": "上海交通大学",
+            "number": "2117",
+            "name": "俞懿",
+            "award": "rt",
+            "rank": "6"
+        },
+        {
+            "email": "zenghaizan@gmail.com",
+            "school": "华南理工大学",
+            "number": "1112",
+            "name": "李佩茹",
+            "award": "rt",
+            "rank": "7"
+        },
+        {
+            "email": "zenghaizan@gmai.com",
+            "school": "华南理工大学",
+            "number": "1113",
+            "name": "李泽轩",
+            "award": "rt",
+            "rank": "8"
+        },
+        {
+            "email": "annxuleheng@gmail.com",
+            "school": "浙江大学",
+            "number": "1038",
+            "name": "徐乐衡",
+            "award": "sn",
+            "rank": "1"
+        },
+        {
+            "email": "kevinczw@hotmail.com",
+            "school": "华南理工大学",
+            "number": "1143",
+            "name": "陈懿翔",
+            "award": "sn",
+            "rank": "2"
+        },
+        {
+            "email": "kevinczw@hotmail.com",
+            "school": "华南理工大学",
+            "number": "1142",
+            "name": "陈奕嘉",
+            "award": "sn",
+            "rank": "3"
+        },
+        {
+            "email": "xcjing999@yahoo.com",
+            "school": "华南理工大学",
+            "number": "1118",
+            "name": "敬小成,林玉树",
+            "award": "fq",
+            "rank": "1"
+        },
+        {
+            "email": "devis.yslin@gmail.com",
+            "school": "华南理工大学",
+            "number": "1119",
+            "name": "敬小成,林玉树",
+            "award": "fq",
+            "rank": "1"
+        },
+        {
+            "email": "shijing303@yahoo.com",
+            "school": "厦门大学",
+            "number": "3416",
+            "name": "潘莉,吴端清",
+            "award": "fq",
+            "rank": "2"
+        },
+        {
+            "email": "duanqing_wu@yahoo.com",
+            "school": "厦门大学",
+            "number": "3415",
+            "name": "潘莉,吴端清",
+            "award": "fq",
+            "rank": "2"
+        },
+        {
+            "email": "zchen@allwin21.com",
+            "school": "西安交通大学",
+            "number": "1601",
+            "name": "陈正明,陈美娟",
+            "award": "fq",
+            "rank": "3"
+        },
+        {
+            "email": "meijuan21@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1604",
+            "name": "陈正明,陈美娟",
+            "award": "fq",
+            "rank": "3"
+        },
+        {
+            "email": "lihui_xie@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1618",
+            "name": "谢丽惠,刘亚军",
+            "award": "fq",
+            "rank": "4"
+        },
+        {
+            "email": "Jeff_yajun_liu@yahoo.com",
+            "school": "西安交通大学",
+            "number": "1619",
+            "name": "谢丽惠,刘亚军",
+            "award": "fq",
+            "rank": "4"
+        },
+        {
+            "email": "jqxin2006@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1203",
+            "name": "辛建强,宫剑",
+            "award": "fq",
+            "rank": "5"
+        },
+        {
+            "email": "jiangong88@gmail.com",
+            "school": "西安电子科技大学",
+            "number": "1202",
+            "name": "辛建强,宫剑",
+            "award": "fq",
+            "rank": "5"
+        },
+        {
+            "email": "Weihua.afan@gmail.com",
+            "school": "吉林大学",
+            "number": "2612",
+            "name": "樊卫华,白雪芳",
+            "award": "fq",
+            "rank": "6"
+        },
+        {
+            "email": "baixuefang@yahoo.com,",
+            "school": "吉林大学",
+            "number": "2604",
+            "name": "樊卫华,白雪芳",
+            "award": "fq",
+            "rank": "6"
+        },
+        {
+            "email": "qiankairong@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2202",
+            "name": "钱开荣,马晶",
+            "award": "fq",
+            "rank": "7"
+        },
+        {
+            "email": "majing19@gmail.com",
+            "school": "合肥工业大学",
+            "number": "2201",
+            "name": "钱开荣,马晶",
+            "award": "fq",
+            "rank": "7"
+        },
+        {
+            "email": "Aileenfang123@gmail.com",
+            "school": "中山大学",
+            "number": "1501",
+            "name": "方爱光,劉時雄",
+            "award": "fq",
+            "rank": "8"
+        },
+        {
+            "email": "pcinexus@gmail.com",
+            "school": "中山大学",
+            "number": "1506",
+            "name": "方爱光,劉時雄",
+            "award": "fq",
+            "rank": "8"
+        },
+        {
+            "email": "yingyingchen.esq@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2026",
+            "name": "陈莹莹,黄志勇",
+            "award": "fq",
+            "rank": "9"
+        },
+        {
+            "email": "zhiyong.huang@gmail.com",
+            "school": "北京邮电大学",
+            "number": "2025",
+            "name": "陈莹莹,黄志勇",
+            "award": "fq",
+            "rank": "9"
+        },
+        {
+            "email": "314145526@qq.com",
+            "school": "华南理工大学",
+            "number": "1141",
+            "name": "何薇,韦志军",
+            "award": "fq",
+            "rank": "10"
+        },
+        {
+            "email": "371859385@qq.com",
+            "school": "华南理工大学",
+            "number": "1121",
+            "name": "何薇,韦志军",
+            "award": "fq",
+            "rank": "10"
+        },
+        {
+            "email": "huihui008@yahoo.com",
+            "school": "浙江大学",
+            "number": "1032",
+            "name": "刘惠珍,方煜",
+            "award": "fq",
+            "rank": "11"
+        },
+        {
+            "email": "detang_shi@yahoo.com",
+            "school": "浙江大学",
+            "number": "1042",
+            "name": "刘惠珍,方煜",
+            "award": "fq",
+            "rank": "11"
+        },
+        {
+            "email": "liweisun2017@gmail.com",
+            "school": "浙江大学",
+            "number": "1031",
+            "name": "孫黎炜,王荣良",
+            "award": "fq",
+            "rank": "12"
+        },
+        {
+            "email": "walterwang2001@gmail.com",
+            "school": "浙江大学",
+            "number": "1028",
+            "name": "孫黎炜,王荣良",
+            "award": "fq",
+            "rank": "12"
+        },
+        {
+            "email": "austin.xyz@gmail.com",
+            "school": "浙江大学",
+            "number": "1036",
+            "name": "徐炎昭,陈若凌",
+            "award": "fq",
+            "rank": "13"
+        },
+        {
+            "email": "lorraine.chenrl@gmail.com",
+            "school": "浙江大学",
+            "number": "1037",
+            "name": "徐炎昭,陈若凌",
+            "award": "fq",
+            "rank": "13"
+        },
+        {
+            "email": "sjl8791@gmail.com",
+            "school": "中山大学",
+            "number": "1514",
+            "name": "刘时骏,陈桅",
+            "award": "fq",
+            "rank": "14"
+        },
+        {
+            "email": "cherry.wei.chen@gmail.com",
+            "school": "中山大学",
+            "number": "1518",
+            "name": "刘时骏,陈桅",
+            "award": "fq",
+            "rank": "14"
+        }
+    ]
