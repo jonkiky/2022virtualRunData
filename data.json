@@ -2404,7 +2404,152 @@
             "name": "刘时骏,陈桅",
             "award": "fq",
             "rank": "14"
-        },{
+        },
+  {
+            "email": "Wtsai@yahoo.com",
+            "school": "Z-浙江大学",
+            "award": "zlc",
+            "rank": "1"
+        },
+        {
+            "email": "mail.liang.wang@gmail.com",
+            "school": "X-西安交通大学",
+            "award": "zlc",
+            "rank": "2"
+        },
+        {
+            "email": "songqy@hotmail.com",
+            "school": "H-华南理工大学",
+            "award": "zlc",
+            "rank": "3"
+        },
+        {
+            "email": "DJWU@live.com",
+            "school": "X-厦门大学",
+            "award": "zlc",
+            "rank": "4"
+        },
+        {
+            "email": "jennifer.jihui.yang@gmail.com",
+            "school": "B-北京邮电大学",
+            "award": "zlc",
+            "rank": "5"
+        },
+        {
+            "email": "qiuhong_sun@yahoo.com",
+            "school": "J-吉林大学",
+            "award": "zlc",
+            "rank": "6"
+        },
+        {
+            "email": "Aileenfang123@gmail.com",
+            "school": "Z-中山大学",
+            "award": "zlc",
+            "rank": "7"
+        },
+        {
+            "email": "ychen3618@gmail.com",
+            "school": "X-西安电子科技大学",
+            "award": "zlc",
+            "rank": "8"
+        },
+        {
+            "email": "rogerxujiang@gmail.com",
+            "school": "H-华中科技大学",
+            "award": "zlc",
+            "rank": "9"
+        },
+        {
+            "email": "yuwu58@gmail.com",
+            "school": "Z-中国科技大学",
+            "award": "zlc",
+            "rank": "10"
+        },
+        {
+            "email": "lltao@hotmail.com",
+            "school": "N-南京师范大学",
+            "award": "pjlc",
+            "rank": "1"
+        },
+        {
+            "email": "qiuhong_sun@yahoo.com",
+            "school": "J-吉林大学",
+            "award": "pjlc",
+            "rank": "2"
+        },
+        {
+            "email": "mail.liang.wang@gmail.com",
+            "school": "X-西安交通大学",
+            "award": "pjlc",
+            "rank": "3"
+        },
+        {
+            "email": "DJWU@live.com",
+            "school": "X-厦门大学",
+            "award": "pjlc",
+            "rank": "4"
+        },
+        {
+            "email": "alexliechen@gmail.com",
+            "school": "H-华东师范大学",
+            "award": "pjlc",
+            "rank": "5"
+        },
+        {
+            "email": "yuwu58@gmail.com",
+            "school": "Z-中国科技大学",
+            "award": "pjlc",
+            "rank": "6"
+        },
+        {
+            "email": "yucheng1430@gmail.com",
+            "school": "B-北京化工大学",
+            "award": "pjlc",
+            "rank": "7"
+        },
+        {
+            "email": "Wtsai@yahoo.com",
+            "school": "Z-浙江大学",
+            "award": "pjlc",
+            "rank": "8"
+        },
+        {
+            "email": "ychen3618@gmail.com",
+            "school": "X-西安电子科技大学",
+            "award": "pjlc",
+            "rank": "9"
+        },
+        {
+            "email": "sshodana@gmail.com",
+            "school": "H-湖南师范大学",
+            "award": "pjlc",
+            "rank": "10"
+        },
+        {
+            "email": "xjtudmv@gmail.com",
+            "name": "陈峰浩",
+            "award": "htzc",
+            "rank": "0"
+        },
+        {
+            "email": "charlee.liu@gmail.com",
+            "name": "刘传李",
+            "award": "htzc",
+            "rank": "0"
+        },
+        {
+            "email": "jonkiky@gmail.com",
+            "name": "陈益振",
+            "award": "htzc",
+            "rank": "0"
+        },
+        {
+            "email": "zenghaizan@gmail.com",
+            "name": "曾海赞",
+            "award": "htzc",
+            "rank": "0"
+        },
+      {
             "email": "test@gmail.com",
             "school": "测试组",
             "number":"007",
@@ -2473,5 +2618,26 @@
            "name":"测试",
             "award": "sn",
             "rank": "1"
+        },
+    {
+            "email": "test@gmail.com",
+            "school": "测试组",
+            "number":"007",
+            "award": "zlc",
+            "rank": "1"
+        },
+    {
+            "email": "test@gmail.com",
+            "school": "测试组",
+            "number":"007",
+            "award": "pjlc",
+            "rank": "2"
+        },
+   {
+            "email": "test@gmail.com",
+            "school": "测试组",
+            "number":"007",
+            "award": "htzc",
+            "rank": "2"
         }
     ]
