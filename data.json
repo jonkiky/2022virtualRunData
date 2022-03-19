@@ -775,7 +775,7 @@
             "rank": "6"
         },
         {
-            "email": "baixuefang@yahoo.com,",
+            "email": "baixuefang@yahoo.com",
             "school": "吉林大学",
             "number": "2604",
             "name": "樊卫华,白雪芳",
@@ -850,7 +850,7 @@
             "email": "huihui008@yahoo.com",
             "school": "浙江大学",
             "number": "1032",
-            "name": "刘惠珍,方煜",
+            "name": "刘惠珍,施德堂",
             "award": "fq",
             "rank": "11"
         },
@@ -858,7 +858,7 @@
             "email": "detang_shi@yahoo.com",
             "school": "浙江大学",
             "number": "1042",
-            "name": "刘惠珍,方煜",
+            "name": "刘惠珍,施德堂",
             "award": "fq",
             "rank": "11"
         },
@@ -909,6 +909,23 @@
             "name": "刘时骏,陈桅",
             "award": "fq",
             "rank": "14"
+        },
+        {
+            "email": "lhsui@yahoo.com",
+            "school": "南京师范大学",
+            "number": "2704",
+            "name": "眭琳晖,汪兰",
+            "award": "fq",
+            "rank": "0"
+        },
+
+                {
+            "email": "lanwang1107@yahoo.com",
+            "school": "南京师范大学",
+            "number": "2705",
+            "name": "汪兰,眭琳晖",
+            "award": "fq",
+            "rank": "0"
         },
         {
             "email": "Wtsai@yahoo.com",
@@ -1194,7 +1211,7 @@
             "email": "detang_shi@yahoo.com",
             "school": "浙江大学",
             "number": "1042",
-            "name": "施得堂",
+            "name": "施德堂",
             "award": "tongqing",
             "rank": "0"
         },
@@ -1351,7 +1368,7 @@
             "rank": "0"
         },
         {
-            "email": "feishu2@yahoo.com",
+            "email": "david.weiqi.li@gmail.com",
             "school": "西安交通大学",
             "number": "1611",
             "name": "李唯奇",
@@ -1551,7 +1568,7 @@
             "rank": "0"
         },
         {
-            "email": "baixuefang@yahoo.com,",
+            "email": "baixuefang@yahoo.com",
             "school": "吉林大学",
             "number": "2604",
             "name": "白雪芳",
@@ -2751,7 +2768,7 @@
             "rank": "36"
         },
         {
-            "email": "feishu2@yahoo.com",
+            "email": "david.weiqi.li@gmail.com",
             "school": "西安交通大学",
             "number": "1611",
             "name": "李唯奇",
@@ -2967,7 +2984,7 @@
             "rank": "13"
         },
         {
-            "email": "baixuefang@yahoo.com,",
+            "email": "baixuefang@yahoo.com",
             "school": "吉林大学",
             "number": "2604",
             "name": "白雪芳",
@@ -3111,20 +3128,12 @@
             "rank": "31"
         },
         {
-            "email": "zhiyong.huang@gmail.com",
-            "school": "北京邮电大学",
-            "number": "2025",
-            "name": "黄志勇",
-            "award": "nvlicheng",
-            "rank": "32"
-        },
-        {
             "email": "lihui_xie@yahoo.com",
             "school": "西安交通大学",
             "number": "1618",
             "name": "谢丽惠",
             "award": "nvlicheng",
-            "rank": "33"
+            "rank": "32"
         },
         {
             "email": "vivid0036@gmail.com",
@@ -3132,7 +3141,7 @@
             "number": "1008",
             "name": "徐子涵",
             "award": "nvlicheng",
-            "rank": "34"
+            "rank": "33"
         },
         {
             "email": "xmimiguo@gmail.com",
@@ -3140,7 +3149,7 @@
             "number": "1806",
             "name": "郭小汨",
             "award": "nvlicheng",
-            "rank": "35"
+            "rank": "34"
         },
         {
             "email": "314145526@qq.com",
@@ -3148,7 +3157,7 @@
             "number": "1141",
             "name": "何薇",
             "award": "nvlicheng",
-            "rank": "36"
+            "rank": "35"
         },
         {
             "email": "yingyingchen.esq@gmail.com",
@@ -3156,7 +3165,7 @@
             "number": "2026",
             "name": "陈莹莹",
             "award": "nvlicheng",
-            "rank": "37"
+            "rank": "36"
         },
         {
             "email": "fangfangliu2011@gmail.com",
@@ -3164,7 +3173,7 @@
             "number": "1014",
             "name": "刘芳芳",
             "award": "nvlicheng",
-            "rank": "38"
+            "rank": "37"
         },
         {
             "email": "yuwu58@gmail.com",
@@ -3172,7 +3181,7 @@
             "number": "3105",
             "name": "吴郁",
             "award": "nvlicheng",
-            "rank": "39"
+            "rank": "38"
         },
         {
             "email": "melody8985@gmail.com",
@@ -3180,7 +3189,7 @@
             "number": "2610",
             "name": "姜天婵",
             "award": "nvlicheng",
-            "rank": "40"
+            "rank": "39"
         },
         {
             "email": "xuyun568@yahoo.com",
@@ -3188,7 +3197,7 @@
             "number": "1520",
             "name": "徐云",
             "award": "nvlicheng",
-            "rank": "41"
+            "rank": "40"
         },
         {
             "email": "Wtsai@yahoo.com",
@@ -3196,7 +3205,7 @@
             "number": "1004",
             "name": "蔡為",
             "award": "nvlicheng",
-            "rank": "42"
+            "rank": "41"
         },
         {
             "email": "huihui008@yahoo.com",
@@ -3204,7 +3213,7 @@
             "number": "1032",
             "name": "刘惠珍",
             "award": "nvlicheng",
-            "rank": "43"
+            "rank": "42"
         },
         {
             "email": "xxiao1966@gmail.com",
@@ -3212,7 +3221,7 @@
             "number": "3417",
             "name": "肖潇",
             "award": "nvlicheng",
-            "rank": "44"
+            "rank": "43"
         },
         {
             "email": "fenjunye@gmail.com",
@@ -3220,7 +3229,7 @@
             "number": "2015",
             "name": "叶芬君",
             "award": "nvlicheng",
-            "rank": "45"
+            "rank": "44"
         },
         {
             "email": "saijinhuang@yahoo.com",
@@ -3228,7 +3237,7 @@
             "number": "1007",
             "name": "黄赛金",
             "award": "nvlicheng",
-            "rank": "46"
+            "rank": "45"
         },
         {
             "email": "meichengcn@gmail.com",
@@ -3236,7 +3245,7 @@
             "number": "1524",
             "name": "程美",
             "award": "nvlicheng",
-            "rank": "47"
+            "rank": "46"
         },
         {
             "email": "aaliang88@gmail.com",
@@ -3244,7 +3253,7 @@
             "number": "1408",
             "name": "梁海燕",
             "award": "nvlicheng",
-            "rank": "48"
+            "rank": "47"
         },
         {
             "email": "yanmeng5@gmail.com",
@@ -3252,13 +3261,21 @@
             "number": "1620",
             "name": "孟艳",
             "award": "nvlicheng",
-            "rank": "49"
+            "rank": "48"
         },
         {
             "email": "sherry.xyang@gmail.com",
             "school": "北京邮电大学",
             "number": "2034",
             "name": "杨晓燕",
+            "award": "nvlicheng",
+            "rank": "49"
+        },
+        {
+            "email": "lanwang1107@yahoo.com",
+            "school": "南京师范大学",
+            "number": "2705",
+            "name": "汪兰",
             "award": "nvlicheng",
             "rank": "50"
         },
